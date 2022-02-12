@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="3917" started-at="2021-02-15T12:44:15Z" finished-at="2021-02-15T12:44:19Z">
+    <groups>
+    </groups>
+    <test name="smoke" duration-ms="3917" started-at="2021-02-15T12:44:15Z" finished-at="2021-02-15T12:44:19Z">
+      <class name="test.Sample">
+        <test-method status="PASS" signature="test_getAllVideoGames()[pri:0, instance:test.Sample@a8564a]" name="test_getAllVideoGames" duration-ms="2280" started-at="2021-02-15T20:44:15Z" finished-at="2021-02-15T20:44:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getAllVideoGames -->
+        <test-method status="PASS" signature="test_addNewVideoGame()[pri:0, instance:test.Sample@a8564a]" name="test_addNewVideoGame" duration-ms="452" started-at="2021-02-15T20:44:18Z" finished-at="2021-02-15T20:44:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_addNewVideoGame -->
+        <test-method status="PASS" signature="test_getVideoGame()[pri:0, instance:test.Sample@a8564a]" name="test_getVideoGame" duration-ms="1035" started-at="2021-02-15T20:44:18Z" finished-at="2021-02-15T20:44:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getVideoGame -->
+        <test-method status="PASS" signature="test_UpdateVideoGame()[pri:0, instance:test.Sample@a8564a]" name="test_UpdateVideoGame" duration-ms="112" started-at="2021-02-15T20:44:19Z" finished-at="2021-02-15T20:44:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_UpdateVideoGame -->
+        <test-method status="PASS" signature="test_DeleteVideoGame()[pri:0, instance:test.Sample@a8564a]" name="test_DeleteVideoGame" duration-ms="27" started-at="2021-02-15T20:44:19Z" finished-at="2021-02-15T20:44:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_DeleteVideoGame -->
+      </class> <!-- test.Sample -->
+    </test> <!-- smoke -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
